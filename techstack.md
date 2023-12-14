@@ -24,7 +24,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [HaroonRehman/Live-Face-Detection-Attendance-Python-OpenCV-Computer-Vision](https://github.com/HaroonRehman/Live-Face-Detection-Attendance-Python-OpenCV-Computer-Vision)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|2<br/>Tools used|12/05/23 <br/>Report generated|
+|2<br/>Tools used|12/14/23 <br/>Report generated|
 |------|------|
 </div>
 
