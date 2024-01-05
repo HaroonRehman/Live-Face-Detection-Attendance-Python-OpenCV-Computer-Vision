@@ -1,7 +1,8 @@
 repo_name: HaroonRehman/Live-Face-Detection-Attendance-Python-OpenCV-Computer-Vision
-report_id: c041a4e2ea3bda6cf546a7084697bc15
+report_id: 2e501540332b3e37dd93a69042dcca3f
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T13:27:32+00:00'
+timestamp: '2024-01-05T08:28:55+00:00'
 requested_by: HaroonRehman
 provider: github
 branch: main
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/HaroonRehman/Live-Face-Detection-Attendance-Python-OpenCV-Computer-Vision
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -25,4 +27,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/HaroonRehman/Live-Face-Detection-Attendance-Python-OpenCV-Computer-Vision
   detection_source: Repo Metadata
